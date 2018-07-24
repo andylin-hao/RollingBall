@@ -1,0 +1,170 @@
+{
+   "360_safe": {
+      "message": "360安全卫士"
+   },
+   "360_total_security": {
+      "message": "360 Total Security"
+   },
+   "about": {
+      "message": "Hakkında"
+   },
+   "agreement_content_message": {
+      "message": "360 İnternet Korumada gömülü Alışveriş Tasarrufçusu, çevrimiçi alışveriş yaptığınızda sizin için daha iyi seçenekleri otomatik arama yaparak bulur. Daha az ödemek için şimdi etkinleştirin!"
+   },
+   "checking_tips": {
+      "message": "Kontrol ediliyor…"
+   },
+   "checking_website": {
+      "message": "Güvenlik denetleniyor…"
+   },
+   "close": {
+      "message": "Kapat"
+   },
+   "copy_right_desc": {
+      "message": "Copyright: @2005-YEAR 360 Security Center"
+   },
+   "deal_price_accept": {
+      "message": "Etkinleştir"
+   },
+   "deal_price_note": {
+      "message": "*Shopping Saver daha sonra ayarlardan kapatılabilir"
+   },
+   "deal_price_reject": {
+      "message": "Artık sorma"
+   },
+   "default_title": {
+      "message": "360 İnternet Koruması"
+   },
+   "description": {
+      "message": "360 İnternet Koruması"
+   },
+   "enable_similar_items_searching": {
+      "message": "Daha fazla indirim bulunduğunda beni bilgilendir"
+   },
+   "enable_toast": {
+      "message": "Koruma etkinleştirildiğinde beni bilgilendir"
+   },
+   "enable_toolbar_icon": {
+      "message": "Araç Çubuğu Düğmesi"
+   },
+   "enhanced": {
+      "message": "Gelişmiş"
+   },
+   "learn_more": {
+      "message": "Daha fazla bilgi"
+   },
+   "name": {
+      "message": "360 İnternet Koruması"
+   },
+   "no_risk": {
+      "message": "Risk Yok"
+   },
+   "official": {
+      "message": "Resmi"
+   },
+   "option_page_title": {
+      "message": "Ayarlar"
+   },
+   "privacy_policy_desc": {
+      "message": "Kullanıcı Deneyimi Geliştirme Programı"
+   },
+   "recommended_message": {
+      "message": "Recommended"
+   },
+   "report_false_positive": {
+      "message": "Yanlış Pozitif Rapor Et"
+   },
+   "resolved": {
+      "message": "Çözüldü"
+   },
+   "risk_desc": {
+      "message": "Bu web sayfası riskli web sitesi olarak bildirilmiş, bu sitenin ziyaret edilmesini önermiyoruz."
+   },
+   "risk_detected": {
+      "message": "Risk belirlendi"
+   },
+   "risk_tips": {
+      "message": "Riskli"
+   },
+   "risk_website": {
+      "message": "Riskli Web Sitesi"
+   },
+   "safe": {
+      "message": "Güvenli"
+   },
+   "safe_tips": {
+      "message": "Güvenli"
+   },
+   "safe_website": {
+      "message": "Güvenli Site"
+   },
+   "security_check": {
+      "message": "Sistem Güvenliği"
+   },
+   "shopping_desc": {
+      "message": "Alışveriş ve ödeme işlemlerinizi koruma altına alın."
+   },
+   "shopping_protection": {
+      "message": "Alışveriş Koruması"
+   },
+   "shopping_protection_check": {
+      "message": "Alışveriş Koruması: Sistem güvenliği denetleniyor…"
+   },
+   "shopping_protection_exit_desc": {
+      "message": "Alışveriş ve ödeme işlemlerinizi koruma altına almak için Alışveriş Koruması Modunu etkinleştirmenizi öneririz."
+   },
+   "shopping_protection_no_risk": {
+      "message": "Alışveriş Koruması: Risk Yok"
+   },
+   "shopping_protection_off": {
+      "message": "Alışveriş Koruması KAPALI, ziyaret ediyorsunuz "
+   },
+   "shopping_protection_off_desc_ts": {
+      "message": "Alışveriş Koruması modülü devre dışı bırakılmış, lütfen Ana Program -> Koruma -> Çevrimiçi Alışveriş Koruması menüsüne giderek bu özelliği etkinleştirin."
+   },
+   "shopping_protection_on": {
+      "message": "Alışveriş Koruması AÇIK, ziyaret ediyorsunuz "
+   },
+   "shopping_protection_on_without_pattern": {
+      "message": "Alışveriş Koruması AÇIK"
+   },
+   "shopping_protection_risk_found": {
+      "message": "Alışveriş Koruması: Risk belirlendi"
+   },
+   "shopping_tips": {
+      "message": "Alışveriş"
+   },
+   "shopping_website": {
+      "message": "Alışveriş Koruması"
+   },
+   "shopping_website_off": {
+      "message": "Alışveriş Koruması KAPALI"
+   },
+   "status": {
+      "message": "Durum"
+   },
+   "unknown_tips": {
+      "message": "360 İnternet Koruması"
+   },
+   "unknown_website": {
+      "message": "360 İnternet Koruması"
+   },
+   "upgrade": {
+      "message": "Yükseltme"
+   },
+   "upgrade_browser_message": {
+      "message": "360 İnternet Koruması başarıyla yüklendi. Yeni özellikler, geçerli tarayıcı son sürüme yükseltildikten sonra geçerli olacaktır."
+   },
+   "upgrade_env_message": {
+      "message": "360 Internet Protection başarıyla yüklendi. Yeni özellikler, en yeni 360 Total Security sürümüne güncelleme yaptığınızda kullanılabilir hale gelecek."
+   },
+   "upgrade_ext_message": {
+      "message": "360 Internet Protection must be upgraded to  latest version. The current extension only support base function."
+   },
+   "web_protection_off_desc_ts": {
+      "message": "Web Koruması modülü devre dışı bırakıldı, lütfen Ana Program -> Koruma -> Kötü Amaçlı Web Sitesi Engelleme bölümüne giderek etkinleştirin ve tarayıcıyı yeniden başlatın."
+   },
+   "website": {
+      "message": "Web sitesi"
+   }
+}

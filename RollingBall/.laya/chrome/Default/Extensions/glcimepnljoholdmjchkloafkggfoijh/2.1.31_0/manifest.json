@@ -1,0 +1,34 @@
+{
+   "background": {
+      "page": "background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/unknown_icon_19.png",
+         "38": "images/unknown_icon_38.png"
+      },
+      "default_title": "__MSG_unknown_website__"
+   },
+   "content_scripts": [ {
+      "css": [ "toast/toast.css" ],
+      "js": [ "utils/common.js", "utils/type.js", "utils/pref.js", "utils/product.js", "utils/debug.js", "toast/toast.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "images/install_logo.png",
+      "48": "images/extension_logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1Hsmyb/JolMqc33u+6s9gVK45byX2XJpk7dhXyKCJTXhw9HO9m1O+cnr9xQJw2YeMJAaxXOYPOoX/BDI21hKoCRYWKNdJDfWWB90f0+uXqk4hMGdnhTNhAu7ki1fWHF8QTh76SVNTlj/4uXTPFutOhzk+MdAAucyFiWctVfhFN+nhbNyMe/ny/P5nZUvFLhwA6a7jFM+d/zC1p0ixtS5uiobIaG1jpaEaUBbinYi969AG/xvvx8V7OmMrJ1Xn9JFMfZB8WIUdEcetOIze5lP7ayBW0ZkrOqdVAp2ck7raSF/r1isiNdm1MsfR1VfklblGEFhmJl1rh07y+OToHkgTQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "optional_permissions": [ "notifications" ],
+   "options_page": "option/options.html",
+   "permissions": [ "tabs", "\u003Call_urls>", "nativeMessaging", "storage", "activeTab", "cookies", "webRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.31",
+   "web_accessible_resources": [ "promo/*", "images/*" ]
+}

@@ -1,0 +1,179 @@
+{
+   "360_safe": {
+      "message": "360安全卫士"
+   },
+   "360_total_security": {
+      "message": "360安全卫士"
+   },
+   "about": {
+      "message": "关于"
+   },
+   "agreement_content_message": {
+      "message": "360网络防护内置的购物省钱助手可以在您网购时自动搜索更低折扣。快快启用，开始省钱吧！"
+   },
+   "checking_tips": {
+      "message": "检查中"
+   },
+   "checking_website": {
+      "message": "网站安全检查中"
+   },
+   "close": {
+      "message": "关闭"
+   },
+   "copy_right_desc": {
+      "message": "版权所有：@2005-YEAR 360安全中心"
+   },
+   "deal_price_accept": {
+      "message": "启用"
+   },
+   "deal_price_note": {
+      "message": "*购物省钱助手可稍后在插件设定中关闭"
+   },
+   "deal_price_reject": {
+      "message": "不要再询问我"
+   },
+   "default_title": {
+      "message": "360网盾安全保护"
+   },
+   "description": {
+      "message": "360网盾安全保护"
+   },
+   "enable_similar_items_searching": {
+      "message": "找到更多特惠时通知我"
+   },
+   "enable_toast": {
+      "message": "当进入网购或支付网站时自动提示"
+   },
+   "enable_toolbar_icon": {
+      "message": "启用工具列按钮"
+   },
+   "enhanced": {
+      "message": "加强"
+   },
+   "learn_more": {
+      "message": "了解更多"
+   },
+   "name": {
+      "message": "360网盾安全保护"
+   },
+   "no_risk": {
+      "message": "无风险"
+   },
+   "official": {
+      "message": "官方"
+   },
+   "option_page_title": {
+      "message": "设置"
+   },
+   "privacy_policy_desc": {
+      "message": "用户体验改善计划"
+   },
+   "recommended_message": {
+      "message": "Recommended"
+   },
+   "report_false_positive": {
+      "message": "反馈误报"
+   },
+   "resolved": {
+      "message": "已处理"
+   },
+   "risk_desc": {
+      "message": "该网站被视为恶意网站，我们强烈建议您不要浏览。"
+   },
+   "risk_detected": {
+      "message": "发现风险"
+   },
+   "risk_tips": {
+      "message": "风险"
+   },
+   "risk_website": {
+      "message": "风险网站"
+   },
+   "safe": {
+      "message": "安全"
+   },
+   "safe_tips": {
+      "message": "安全"
+   },
+   "safe_website": {
+      "message": "安全网站"
+   },
+   "security_check": {
+      "message": "系统安全"
+   },
+   "shopping_desc": {
+      "message": "保护网购和交易安全。"
+   },
+   "shopping_protection": {
+      "message": "购物保护"
+   },
+   "shopping_protection_check": {
+      "message": "购物保护: 检查中"
+   },
+   "shopping_protection_exit_desc": {
+      "message": "我们强烈建议开启网购保护模式，来继续使得网购和交易安全。"
+   },
+   "shopping_protection_no_risk": {
+      "message": "购物保护: 没有风险"
+   },
+   "shopping_protection_off": {
+      "message": "购物保护关闭，正在访问 "
+   },
+   "shopping_protection_off_desc_360safe": {
+      "message": "网购防护功能已经关闭，请到 主程序 -> 安全防护中心 -> 浏览器防护 -> 网购安全防护 开启。"
+   },
+   "shopping_protection_off_desc_ts": {
+      "message": "网购防护功能已经关闭，请到 主程序 -> 防护 -> 网络购物防护 开启。"
+   },
+   "shopping_protection_on": {
+      "message": "购物保护开启，正在访问 "
+   },
+   "shopping_protection_on_without_pattern": {
+      "message": "购物保护开启"
+   },
+   "shopping_protection_risk_found": {
+      "message": "购物保护: 发现风险"
+   },
+   "shopping_tips": {
+      "message": "购物"
+   },
+   "shopping_website": {
+      "message": "购物保护"
+   },
+   "shopping_website_off": {
+      "message": "购物保护关闭"
+   },
+   "status": {
+      "message": "状态"
+   },
+   "unknown_tips": {
+      "message": "360网盾安全保护"
+   },
+   "unknown_website": {
+      "message": "360网盾安全保护"
+   },
+   "upgrade_360safe": {
+      "message": "升级360安全卫士国内版"
+   },
+   "upgrade_360ts": {
+      "message": "升级360安全卫士国际版"
+   },
+   "upgrade_browser_message": {
+      "message": "已经成功安装360上网防护扩展，新功能需要升级浏览器到最新才能生效。"
+   },
+   "upgrade_env_message": {
+      "message": "已经成功安装360上网防护扩展，新功能需要升级360安全卫士才能生效。"
+   },
+   "upgrade_ext_message": {
+      "message": "360上网防护扩展必须升级到最新，目前的扩展只支持最基本功能。"
+   },
+   "web_protection_off_desc_360safe": {
+      "message": "网页防护功能已经关闭，请到 主程序 -> 安全防护中心 -> 浏览器防护 -> 网页安全防护 开启，并重启浏览器。"
+   },
+   "web_protection_off_desc_ts": {
+      "message": "网页防护功能已经关闭，请到 主程序 -> 防护 -> 恶意网页拦截 开启，并重启浏览器。"
+   },
+   "website": {
+      "message": "网站"
+   }
+}

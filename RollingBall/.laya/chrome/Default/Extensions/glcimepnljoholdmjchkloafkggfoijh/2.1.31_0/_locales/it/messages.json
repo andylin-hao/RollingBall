@@ -1,0 +1,170 @@
+{
+   "360_safe": {
+      "message": "360安全卫士"
+   },
+   "360_total_security": {
+      "message": "360 Total Security"
+   },
+   "about": {
+      "message": "Informazioni"
+   },
+   "agreement_content_message": {
+      "message": "La funzione Risparmio acquisti integrata su 360 Internet Protection ricerca automaticamente le migliori offerte mentre fai acquisti online. Attivala per risparmiare!"
+   },
+   "checking_tips": {
+      "message": "Verifica"
+   },
+   "checking_website": {
+      "message": "Controllo di sicurezza in corso..."
+   },
+   "close": {
+      "message": "Chiudi"
+   },
+   "copy_right_desc": {
+      "message": "Copyright: @2005-YEAR 360 Security Center"
+   },
+   "deal_price_accept": {
+      "message": "Attiva"
+   },
+   "deal_price_note": {
+      "message": "* La funzione Risparmio acquisti può essere disattivata in seguito dalle impostazioni"
+   },
+   "deal_price_reject": {
+      "message": "Non chiederlo più"
+   },
+   "default_title": {
+      "message": "360 Internet Protection"
+   },
+   "description": {
+      "message": "360 Internet Protection"
+   },
+   "enable_similar_items_searching": {
+      "message": "Avvisami quando vengono trovate nuove offerte"
+   },
+   "enable_toast": {
+      "message": "Avvisami quando la protezione è attiva"
+   },
+   "enable_toolbar_icon": {
+      "message": "Pulsante nella barra degli strumenti"
+   },
+   "enhanced": {
+      "message": "Migliorato"
+   },
+   "learn_more": {
+      "message": "Dettagli"
+   },
+   "name": {
+      "message": "360 Internet Protection"
+   },
+   "no_risk": {
+      "message": "Nessun rischio"
+   },
+   "official": {
+      "message": "Ufficiale"
+   },
+   "option_page_title": {
+      "message": "Impostazioni"
+   },
+   "privacy_policy_desc": {
+      "message": "Programma di miglioramento User Experience"
+   },
+   "recommended_message": {
+      "message": "Consigliati"
+   },
+   "report_false_positive": {
+      "message": "Segnala falso positivo"
+   },
+   "resolved": {
+      "message": "Risolto"
+   },
+   "risk_desc": {
+      "message": "La pagina è stata segnalata come sito pericoloso e ne sconsigliamo vivamente l'apertura."
+   },
+   "risk_detected": {
+      "message": "Rischio individuato"
+   },
+   "risk_tips": {
+      "message": "Rischio"
+   },
+   "risk_website": {
+      "message": "Sito pericoloso"
+   },
+   "safe": {
+      "message": "Sicuro"
+   },
+   "safe_tips": {
+      "message": "Sicuro"
+   },
+   "safe_website": {
+      "message": "Sito sicuro"
+   },
+   "security_check": {
+      "message": "Sicurezza del sistema"
+   },
+   "shopping_desc": {
+      "message": "Mantieni al sicuro i tuoi acquisti e le tue transazioni."
+   },
+   "shopping_protection": {
+      "message": "Shopping Protection"
+   },
+   "shopping_protection_check": {
+      "message": "Protezione acquisti: verifica della sicurezza del sistema in corso..."
+   },
+   "shopping_protection_exit_desc": {
+      "message": "Consigliamo vivamente di attivare la modalità Protezione acquisti per mantenere al sicuro gli acquisti e le transazioni."
+   },
+   "shopping_protection_no_risk": {
+      "message": "Protezione acquisti: nessun rischio"
+   },
+   "shopping_protection_off": {
+      "message": "La modalità Protezione acquisti non è attiva. Stai visitando "
+   },
+   "shopping_protection_off_desc_ts": {
+      "message": "Il modulo Protezione acquisti non è attivo. Per attivarlo, vai su Programma principale -> Protezione -> Protezione acquisti online."
+   },
+   "shopping_protection_on": {
+      "message": "La modalità Protezione acquisti è attiva. Stai visitando "
+   },
+   "shopping_protection_on_without_pattern": {
+      "message": "Shopping Protection is ON"
+   },
+   "shopping_protection_risk_found": {
+      "message": "Protezione acquisti: rischio individuato"
+   },
+   "shopping_tips": {
+      "message": "Acquisti"
+   },
+   "shopping_website": {
+      "message": "Shopping Protection"
+   },
+   "shopping_website_off": {
+      "message": "La modalità Protezione acquisti non è attiva"
+   },
+   "status": {
+      "message": "Stato"
+   },
+   "unknown_tips": {
+      "message": "360 Internet Protection"
+   },
+   "unknown_website": {
+      "message": "360 Internet Protection"
+   },
+   "upgrade": {
+      "message": "Aggiorna"
+   },
+   "upgrade_browser_message": {
+      "message": "360 Internet Protection è stato installato. Nuove funzioni saranno attive dopo l'aggiornamento del browser in uso alla versione più recente."
+   },
+   "upgrade_env_message": {
+      "message": "360 Internet Protection è stato installato. Nuove funzioni saranno attive dopo l'aggiornamento alla versione più recente di 360 Total Security."
+   },
+   "upgrade_ext_message": {
+      "message": "È necessario aggiornare 360 Internet Protection alla versione più recente. L'estensione in uso supporta solo le funzioni di base."
+   },
+   "web_protection_off_desc_ts": {
+      "message": "Il modulo Protezione Web non è attivo. Per attivarlo, vai su Programma principale -> Protezione -> Blocca siti dannosi, quindi riavvia il browser."
+   },
+   "website": {
+      "message": "Sito Web"
+   }
+}

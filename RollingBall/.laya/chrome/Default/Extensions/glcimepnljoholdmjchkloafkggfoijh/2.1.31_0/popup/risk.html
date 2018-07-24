@@ -1,0 +1,40 @@
+<html>
+<head>
+<script src="../utils/debug.js"></script>
+<script src="../utils/type.js"></script>
+<script src="../utils/product.js"></script>
+<script src="./popup.js"></script>
+<script src="./risk.js"></script>
+<link rel="stylesheet" type="text/css" href="popup.css">
+</head>
+<body>
+
+<div id="risk-container">
+    <div class="setting_bar_container">
+        <input type="image" class="setting_icon" src="../images/settings.png" />
+        <div id="caption"></div>
+    </div>
+    
+    <hr class="setting-divider">
+    
+    <div class="border">
+        <div class="large_icon_container" style="display: flex; justify-content: center;">
+            <img src="../images/risk_large.png" class="status_large_icon">
+        </div>
+     
+        <div class="status-container">
+            <div id="status-text" class="title" style="display: flex; justify-content: center;"></div>
+            <div id="status-desc" class="description" style="display: flex; justify-content: center;"></div>
+        </div>
+        
+        <div id="report-pannel">
+            <span id="report-false-positive"></span>
+            <div id="button-container">
+                <div id="close-tab" style="display: inline-block;"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

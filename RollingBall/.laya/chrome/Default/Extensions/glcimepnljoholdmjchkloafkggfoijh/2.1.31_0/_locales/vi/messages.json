@@ -1,0 +1,170 @@
+{
+   "360_safe": {
+      "message": "360安全卫士"
+   },
+   "360_total_security": {
+      "message": "360 Total Security"
+   },
+   "about": {
+      "message": "Giới thiệu"
+   },
+   "agreement_content_message": {
+      "message": "Trình Tiết Kiệm Mua Sắm được tích hợp trong Phần Mềm Bảo Vệ Internet 360 sẽ tự động tìm kiếm các khuyến mãi tốt hơn khi bạn mua sắm trực tuyến. Kích hoạt ngay để thanh toán ít hơn!"
+   },
+   "checking_tips": {
+      "message": "Đang kiểm tra"
+   },
+   "checking_website": {
+      "message": "Kiểm tra bảo mật…"
+   },
+   "close": {
+      "message": "Đóng"
+   },
+   "copy_right_desc": {
+      "message": "Copyright: @2005-YEAR 360 Security Center"
+   },
+   "deal_price_accept": {
+      "message": "Bật"
+   },
+   "deal_price_note": {
+      "message": "*Trình Tiết Kiệm Mua Sắm có thể được tắt sau ở mục cài đặt"
+   },
+   "deal_price_reject": {
+      "message": "Đừng hỏi lại tôi lần nữa"
+   },
+   "default_title": {
+      "message": "Bảo vệ internet 360"
+   },
+   "description": {
+      "message": "Bảo vệ internet 360"
+   },
+   "enable_similar_items_searching": {
+      "message": "Thông báo cho tôi khi có thêm các ưu đãi"
+   },
+   "enable_toast": {
+      "message": "Thông báo cho tôi khi chế độ bảo vệ được bật"
+   },
+   "enable_toolbar_icon": {
+      "message": "Nút thanh công cụ"
+   },
+   "enhanced": {
+      "message": "Tăng cường"
+   },
+   "learn_more": {
+      "message": "Tìm hiểu thêm"
+   },
+   "name": {
+      "message": "Bảo vệ internet 360"
+   },
+   "no_risk": {
+      "message": "Không có rủi ro"
+   },
+   "official": {
+      "message": "Chính thức"
+   },
+   "option_page_title": {
+      "message": "Cài đặt"
+   },
+   "privacy_policy_desc": {
+      "message": "Chương trình cải thiện trải nghiệm người dùng"
+   },
+   "recommended_message": {
+      "message": "Recommended"
+   },
+   "report_false_positive": {
+      "message": "Báo cáo lỗi không đúng"
+   },
+   "resolved": {
+      "message": "Đã giải quyết"
+   },
+   "risk_desc": {
+      "message": "Trang web đã được báo cáo là có rủi ro, bạn không nên truy cập trang này."
+   },
+   "risk_detected": {
+      "message": "Đã phát hiện rủi ro"
+   },
+   "risk_tips": {
+      "message": "Rủi ro"
+   },
+   "risk_website": {
+      "message": "Trang web nguy hiểm"
+   },
+   "safe": {
+      "message": "An toàn"
+   },
+   "safe_tips": {
+      "message": "An toàn"
+   },
+   "safe_website": {
+      "message": "Trang web an toàn"
+   },
+   "security_check": {
+      "message": "Bảo mật hệ thống"
+   },
+   "shopping_desc": {
+      "message": "Giữ an toàn cho hoạt động mua sắm và giao dịch của bạn."
+   },
+   "shopping_protection": {
+      "message": "Bảo vệ mua sắm"
+   },
+   "shopping_protection_check": {
+      "message": "Bảo vệ mua sắm: Đang kiểm tra bảo mật hệ thống…"
+   },
+   "shopping_protection_exit_desc": {
+      "message": "Bạn nên bật Chế độ Bảo vệ mua sắm để giữ cho hoạt động mua sắm và giao dịch của bạn an toàn."
+   },
+   "shopping_protection_no_risk": {
+      "message": "Bảo vệ mua sắm: Không có rủi ro"
+   },
+   "shopping_protection_off": {
+      "message": "Bảo vệ mua sắm đã TẮT, bạn đang truy cập "
+   },
+   "shopping_protection_off_desc_ts": {
+      "message": "Mô-đun Bảo vệ mua sắm đã bị tắt, hãy đến Chương trình chính -> Bảo vệ -> Bảo vệ mua sắm trực tuyến để bật nó."
+   },
+   "shopping_protection_on": {
+      "message": "Bảo vệ mua sắm đã BẬT, bạn đang truy cập "
+   },
+   "shopping_protection_on_without_pattern": {
+      "message": "Bảo vệ mua sắm đã BẬT"
+   },
+   "shopping_protection_risk_found": {
+      "message": "Bảo vệ mua sắm: Đã phát hiện rủi ro"
+   },
+   "shopping_tips": {
+      "message": "Mua sắm"
+   },
+   "shopping_website": {
+      "message": "Bảo vệ mua sắm"
+   },
+   "shopping_website_off": {
+      "message": "Bảo vệ mua sắm đã TẮT"
+   },
+   "status": {
+      "message": "Trạng thái"
+   },
+   "unknown_tips": {
+      "message": "Bảo vệ internet 360"
+   },
+   "unknown_website": {
+      "message": "Bảo vệ internet 360"
+   },
+   "upgrade": {
+      "message": "nâng cấp"
+   },
+   "upgrade_browser_message": {
+      "message": "Bảo vệ internet 360 đã được cài đặt thành công. Các tính năng mới sẽ có hiệu lực sau khi nâng cấp trình duyệt hiện tại lên phiên bản mới nhất."
+   },
+   "upgrade_env_message": {
+      "message": "Bảo vệ internet 360 đã được cài đặt thành công. Các tính năng mới sẽ có hiệu lực sau khi nâng cấp lên phiên bản mới nhất của 360 Total Security."
+   },
+   "upgrade_ext_message": {
+      "message": "360 Internet Protection must be upgraded to  latest version. The current extension only support base function."
+   },
+   "web_protection_off_desc_ts": {
+      "message": "Mô-đun Bảo vệ web đã bị tắt, hãy đến Chương trình chính -> Bảo vệ -> Chặn trang web độc hại để bật nó và khởi động lại trình duyệt."
+   },
+   "website": {
+      "message": "Trang web"
+   }
+}

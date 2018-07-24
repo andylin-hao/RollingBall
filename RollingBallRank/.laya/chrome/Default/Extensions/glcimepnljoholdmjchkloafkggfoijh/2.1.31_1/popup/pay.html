@@ -1,0 +1,60 @@
+<html>
+<head>
+<script src="../utils/debug.js"></script>
+<script src="../utils/type.js"></script>
+<script src="../utils/product.js"></script>
+<script src="./popup.js"></script>
+<link rel="stylesheet" type="text/css" href="popup.css">
+</head>
+<body>
+
+<div id="pay-container" class="body">
+    <div >
+        <input type="image" class="setting_icon" style="float: left;" src="../images/settings.png" />
+        <div id="caption" style="text-align:center;" class="caption"></div>
+    </div>
+  
+    <hr>
+    <div style="display: flex; justify-content: center;">
+        <img id ="payment-icon-large" src="../images/pay_large.png" class="status_large_icon">
+    </div>
+    </br>
+    <div id="status" class="title" style="display: flex; justify-content: center;">
+    </div>
+    
+    <div id="netpay-pannel">
+        </br>
+        <div id="netpay-mode" style="display: inline-block;" class="netpay-mode" ></div>
+        <img id="netpay-switch" style="float: right; cursor: pointer;">
+    </div>
+    
+    <div id="misc-pannel">
+        </br>
+        <div id="website-name-container">
+            <img src="../images/icon_checked.png" style="vertical-align: middle;" class="list-icon">
+            <div id="website" class="message" style="display: inline-block;"></div>
+            <div style="display: inline-block;">:</div>
+            <div id="website-name" class="message" style="display: inline-block;"></div>
+        </div>
+        <div id="status-description-container">
+            <img src="../images/icon_checked.png" style="vertical-align: middle;" class="list-icon">
+            <div id="status-name" class="message " style="display: inline-block;"></div>
+            <div style="display: inline-block;">:</div>
+            <div id="status-official" class="message plate" style="display: inline-block;"></div>
+            <div id="status-safe" class="message plate" style="display: inline-block;"></div>
+        </div>
+        <div id="security-check-container" style="display: none;" class="list-text">
+            <img id="scan-result-img" style="vertical-align: middle;" class="list-icon">
+   
+            <div style="display: inline-block;">
+                <span id="security-check"></span>
+                <span class="item-space">:</span>
+                <span id="security-state" class="item-space"></span>
+                <span id="risk-processed" class="resolve"></span>
+            </div>
+        </div>
+    </div> 
+</div>
+
+</body>
+</html>

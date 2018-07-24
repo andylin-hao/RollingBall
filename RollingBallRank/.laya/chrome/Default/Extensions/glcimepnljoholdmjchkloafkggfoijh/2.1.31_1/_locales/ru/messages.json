@@ -1,0 +1,170 @@
+{
+   "360_safe": {
+      "message": "360安全卫士"
+   },
+   "360_total_security": {
+      "message": "360 Total Security"
+   },
+   "about": {
+      "message": "О программе"
+   },
+   "agreement_content_message": {
+      "message": "Приложение Shopping Saver, встроенное в 360 Internet Protection, — это автоматический поиск максимальных скидок при покупке товаров через Интернет. Подключите приложение и экономьте!"
+   },
+   "checking_tips": {
+      "message": "Проверка"
+   },
+   "checking_website": {
+      "message": "Проверка безопасности…"
+   },
+   "close": {
+      "message": "Закрыть"
+   },
+   "copy_right_desc": {
+      "message": "Copyright: @2005-YEAR 360 Security Center"
+   },
+   "deal_price_accept": {
+      "message": "Включить"
+   },
+   "deal_price_note": {
+      "message": "*Shopping Saver может быть отключен  позже в настройках"
+   },
+   "deal_price_reject": {
+      "message": "Не спрашивайте меня снова"
+   },
+   "default_title": {
+      "message": "Защита от веб-угроз 360"
+   },
+   "description": {
+      "message": "Защита от веб-угроз 360"
+   },
+   "enable_similar_items_searching": {
+      "message": "Включите ли Яндекс.Советник"
+   },
+   "enable_toast": {
+      "message": "Уведомлять при включении защиты"
+   },
+   "enable_toolbar_icon": {
+      "message": "Кнопка панели инструментов"
+   },
+   "enhanced": {
+      "message": "Расширенные функции"
+   },
+   "learn_more": {
+      "message": "Подробнее"
+   },
+   "name": {
+      "message": "Защита от веб-угроз 360"
+   },
+   "no_risk": {
+      "message": "Нет рисков"
+   },
+   "official": {
+      "message": "Официальный"
+   },
+   "option_page_title": {
+      "message": "Параметры"
+   },
+   "privacy_policy_desc": {
+      "message": "Программа улучшения качества ПО"
+   },
+   "recommended_message": {
+      "message": "Recommended"
+   },
+   "report_false_positive": {
+      "message": "Сообщать о ложноположительных результатах"
+   },
+   "resolved": {
+      "message": "Исправлено"
+   },
+   "risk_desc": {
+      "message": "Рискованный веб-сайт. Настоятельно рекомендуется не посещать эту страницу."
+   },
+   "risk_detected": {
+      "message": "Обнаружен риск"
+   },
+   "risk_tips": {
+      "message": "Риск"
+   },
+   "risk_website": {
+      "message": "Рискованный веб-сайт"
+   },
+   "safe": {
+      "message": "Безопасно"
+   },
+   "safe_tips": {
+      "message": "Безопасно"
+   },
+   "safe_website": {
+      "message": "Безопасный сайт"
+   },
+   "security_check": {
+      "message": "Безопасность системы"
+   },
+   "shopping_desc": {
+      "message": "Обеспечьте защиту своих покупок и транзакций."
+   },
+   "shopping_protection": {
+      "message": "Защита покупок"
+   },
+   "shopping_protection_check": {
+      "message": "Защита покупок: проверка безопасности системы…"
+   },
+   "shopping_protection_exit_desc": {
+      "message": "Настоятельно рекомендуется включить режим защиты покупок, чтобы обеспечить безопасность покупок и транзакций."
+   },
+   "shopping_protection_no_risk": {
+      "message": "Защита покупок: нет рисков"
+   },
+   "shopping_protection_off": {
+      "message": "Защита покупок отключена. Вы посещаете "
+   },
+   "shopping_protection_off_desc_ts": {
+      "message": "Модуль защиты покупок отключен. Чтобы включить его, перейдите в раздел «Основная программа -> Защита -> Защита покупок в Интернете."
+   },
+   "shopping_protection_on": {
+      "message": "Защита покупок включена. Вы посещаете "
+   },
+   "shopping_protection_on_without_pattern": {
+      "message": "Защита покупок включена"
+   },
+   "shopping_protection_risk_found": {
+      "message": "Защита покупок: обнаружен риск"
+   },
+   "shopping_tips": {
+      "message": "Покупки"
+   },
+   "shopping_website": {
+      "message": "Защита покупок"
+   },
+   "shopping_website_off": {
+      "message": "Защита покупок отключена"
+   },
+   "status": {
+      "message": "Статус"
+   },
+   "unknown_tips": {
+      "message": "Защита от веб-угроз 360"
+   },
+   "unknown_website": {
+      "message": "Защита от веб-угроз 360"
+   },
+   "upgrade": {
+      "message": "Апгрейд"
+   },
+   "upgrade_browser_message": {
+      "message": "Функция Интернет-защита 360 установлена. Новые функции вступят в силу после обновления используемого браузера до последней версии."
+   },
+   "upgrade_env_message": {
+      "message": "Функция Интернет-защита 360 установлена. Новые функции вступят в силу после обновления 360 Total Security до последней версии."
+   },
+   "upgrade_ext_message": {
+      "message": "360 Internet Protection must be upgraded to  latest version. The current extension only support base function."
+   },
+   "web_protection_off_desc_ts": {
+      "message": "Модуль интернет-защиты отключен. Чтобы включить его, перейдите в раздел «Основная программа -> Защита -> Блокировка вредоносных веб-сайтов», а затем перезагрузите браузер."
+   },
+   "website": {
+      "message": "Веб-сайт"
+   }
+}

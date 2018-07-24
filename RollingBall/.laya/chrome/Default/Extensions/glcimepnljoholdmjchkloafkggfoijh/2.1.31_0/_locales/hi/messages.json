@@ -1,0 +1,170 @@
+{
+   "360_safe": {
+      "message": "360安全卫士"
+   },
+   "360_total_security": {
+      "message": "360 Total Security"
+   },
+   "about": {
+      "message": "इसके बारे में"
+   },
+   "agreement_content_message": {
+      "message": "जब आप ऑनलाइन शॉप करते हो तो आपके के लिए बेहतर छूट को स्वत: ढूंढने के लिए 360 इंटरनेट सुरक्षा में शॉपिंग सेवर बनाया गया है। कम भुगतान के लिए अभी सक्षम करें!"
+   },
+   "checking_tips": {
+      "message": "जाँच कर रहा है"
+   },
+   "checking_website": {
+      "message": "सुरक्षा की जाँच की जा रही है…"
+   },
+   "close": {
+      "message": "बंद करें"
+   },
+   "copy_right_desc": {
+      "message": "Copyright: @2005-YEAR 360 Security Center"
+   },
+   "deal_price_accept": {
+      "message": "सक्षम करें"
+   },
+   "deal_price_note": {
+      "message": "*शॉपिंग बचत सेटिंग्स में बाद में बंद की जा सकती है।"
+   },
+   "deal_price_reject": {
+      "message": "मुझे दुबारा मत पूछें।"
+   },
+   "default_title": {
+      "message": "360 इंटरनेट सुरक्षा"
+   },
+   "description": {
+      "message": "360 इंटरनेट सुरक्षा"
+   },
+   "enable_similar_items_searching": {
+      "message": "जब ज्यादा डील मिले तो मुझे सूचित करें"
+   },
+   "enable_toast": {
+      "message": "सुरक्षा सक्षम होने पर मुझे सूचित करें"
+   },
+   "enable_toolbar_icon": {
+      "message": "टूलबार बटन"
+   },
+   "enhanced": {
+      "message": "एन्हांस किया गया"
+   },
+   "learn_more": {
+      "message": "अधिक जानें"
+   },
+   "name": {
+      "message": "360 इंटरनेट सुरक्षा"
+   },
+   "no_risk": {
+      "message": "कोई जोखिम नहीं"
+   },
+   "official": {
+      "message": "अधिकारिक"
+   },
+   "option_page_title": {
+      "message": "सेटिंग्स"
+   },
+   "privacy_policy_desc": {
+      "message": "उपयोगकर्ता अनुभव सुधार प्रोग्राम"
+   },
+   "recommended_message": {
+      "message": "Recommended"
+   },
+   "report_false_positive": {
+      "message": "भ्रामक सकारात्मक की रिपोर्ट करें"
+   },
+   "resolved": {
+      "message": "समाधान किया गया"
+   },
+   "risk_desc": {
+      "message": "पृष्ठ को जोखिम भरी साइट के रूप में रिपोर्ट किया गया है, हम सशक्त रूप से इस पृष्ठ पर जाने का विरोध करते हैं."
+   },
+   "risk_detected": {
+      "message": "जोखिम का पता लगा"
+   },
+   "risk_tips": {
+      "message": "जोखिम"
+   },
+   "risk_website": {
+      "message": "जोख़िम भरी वेबसाइट"
+   },
+   "safe": {
+      "message": "सुरक्षित"
+   },
+   "safe_tips": {
+      "message": "सुरक्षित"
+   },
+   "safe_website": {
+      "message": "सुरक्षित साइट"
+   },
+   "security_check": {
+      "message": "सिस्टम सुरक्षा"
+   },
+   "shopping_desc": {
+      "message": "अपनी खरीदारी और लेन-देन सुरक्षित रखें."
+   },
+   "shopping_protection": {
+      "message": "खरीदारी सुरक्षा"
+   },
+   "shopping_protection_check": {
+      "message": "खरीदारी सुरक्षा: सिस्टम सुरक्षा जाँचना…"
+   },
+   "shopping_protection_exit_desc": {
+      "message": "आपकी खरीदारी और लेन-देन को सुरक्षित रखने के लिए हम सशक्त रूप से खरीदारी सुरक्षा मोड को सक्षम करने की अनुशंसा करते हैं."
+   },
+   "shopping_protection_no_risk": {
+      "message": "खरीदारी सुरक्षा: कोई जोखिम नहीं"
+   },
+   "shopping_protection_off": {
+      "message": "खरीदारी सुरक्षा बंद है, आप देख रहे हैं "
+   },
+   "shopping_protection_off_desc_ts": {
+      "message": "खरीदारी सुरक्षा मॉड्यूल अक्षम है, इसे सक्षम करने के लिए कृपया मुख्य प्रोग्राम -> सुरक्षा -> ऑनलाइन खरीदारी सुरक्षा पर जाएँ."
+   },
+   "shopping_protection_on": {
+      "message": "खरीदारी सुरक्षा चालू है, आप देख रहे हैं "
+   },
+   "shopping_protection_on_without_pattern": {
+      "message": "खरीदारी सुरक्षा चालू है"
+   },
+   "shopping_protection_risk_found": {
+      "message": "खरीदारी सुरक्षा: जोखिम का पता लगा"
+   },
+   "shopping_tips": {
+      "message": "खरीदारी"
+   },
+   "shopping_website": {
+      "message": "खरीदारी सुरक्षा"
+   },
+   "shopping_website_off": {
+      "message": "खरीदारी सुरक्षा बंद है"
+   },
+   "status": {
+      "message": "स्थिति"
+   },
+   "unknown_tips": {
+      "message": "360 इंटरनेट सुरक्षा"
+   },
+   "unknown_website": {
+      "message": "360 इंटरनेट सुरक्षा"
+   },
+   "upgrade": {
+      "message": "नवीनीकृत"
+   },
+   "upgrade_browser_message": {
+      "message": "360 Internet Protection की स्थापना सफलतापूर्वक हो गई. नई सुविधाएँ वर्तमान ब्राउज़र को नवीनतम संस्करण में नवीनीकृत करने के बाद प्रभावित होंगी."
+   },
+   "upgrade_env_message": {
+      "message": "360 Internet Protection की स्थापना सफलतापूर्वक हो गई है. नई सुविधाएँ 360 Total Security के नवीनतम संस्करण में नवीनीकृत करने के बाद प्रभावित होंगी."
+   },
+   "upgrade_ext_message": {
+      "message": "360 Internet Protection must be upgraded to  latest version. The current extension only support base function."
+   },
+   "web_protection_off_desc_ts": {
+      "message": "Web Protection मॉड्यूल अक्षम है, इसे सक्षम करने के लिए कृपया मुख्य प्रोग्राम -> सुरक्षा -> दुर्भावनापूर्ण वेबसाइट अवरोधन पर जाएँ और ब्राउज़र पुनः प्रारंभ करें."
+   },
+   "website": {
+      "message": "वेबसाइट"
+   }
+}

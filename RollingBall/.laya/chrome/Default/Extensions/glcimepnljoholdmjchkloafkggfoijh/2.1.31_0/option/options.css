@@ -1,0 +1,104 @@
+html {
+    font-size: 12pt;
+}
+
+body {
+    background-color: #f8f8f8;
+    margin: 0px;
+    font-size: calc(0.8 * 87.5%);
+    color: #656565;
+}
+
+hr {
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    border-top: calc(0.8 *1px) solid #e8e8e8;
+    margin-top: calc(0.8 * 5px);
+}
+
+.underline-on-hover:hover {
+    text-decoration: underline;
+}
+
+#option-pannel {
+    padding-left: calc(0.8 * 120px);
+}
+
+#logo {
+    margin-top: calc(0.8 * 70px);
+    height: calc(0.8 * 32px);
+}
+
+#about-pannel,
+#settings-pannel {
+    margin-top: calc(0.8 * 60px);
+    font-size: calc(0.8 * 1.667em);
+}
+
+#enable-toolbar-switch,
+#enable-toast-switch,
+#enable-sovetnik-switch {
+    width: calc(0.8 * 38px);
+    height: calc(0.8 * 19px);
+}
+
+.checkbox {
+    width: calc(0.8 * 19px);
+    height: calc(0.8 * 19px);
+}
+
+#notification {
+    line-height: calc(0.8 * 19px);
+}
+
+#toolbutton,
+#sovetnik,
+#privacy-policy {
+    margin-top: calc(0.8 * 25px);
+    line-height: calc(0.8 * 19px);
+}
+
+#fb-website {
+    margin-top: calc(0.8 * 25px);
+}
+
+#copyright {
+    margin-top: calc(0.8 * 60px);
+    color: #868686;
+    font-size: calc(0.8 * 1em);
+}
+
+.item-left {
+    padding-right: calc(0.8 * 30px);
+    width: calc(0.8 * 150px);
+    word-wrap: break-word;
+}
+
+.item-right {
+    width: calc(0.8 * 400px);
+}
+
+.item-img {
+    height: calc(0.8 * 44px);
+    width: calc(0.8 * 44px);
+    margin-right: calc(0.8 * 20px);
+}
+
+.item-url {
+    line-height: calc(0.8 * 38px);
+    vertical-align: top;
+    color: #289afb;
+    font-size: calc(0.8 * 1.1667em);
+    cursor: pointer;
+}
+
+.switch-button {
+    float: right;
+    cursor: pointer;
+}
+
+#error-msg {
+    font-size: calc(0.8 * 2em);
+    text-align: center;
+    margin-top: 10%;
+}

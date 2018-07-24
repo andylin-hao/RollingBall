@@ -1,0 +1,86 @@
+<html>
+<head>
+<script src="../utils/debug.js"></script>
+<script src="../utils/type.js"></script>
+<script src="../utils/product.js"></script>
+<script src="../utils/pref.js"></script>
+<script src="../utils/common.js"></script>
+<script src="options.js"></script>
+<link rel="stylesheet" type="text/css" href="options.css">
+<link rel="stylesheet" type="text/css" href="../popup/popup.css">
+<title></title>
+</head>
+<body>
+    <div id="error-msg" style="display:none">
+        <div id="upgrade_pannel" style="display: none;">
+            <div id="upgrade_message" class="description" style="justify-content: center;"></div>
+            <div style="text-align: center;">
+                <div id="upgrade_360safe" class="upgrade-button"></div>
+                <div id="upgrade_360ts" class="upgrade-button"></div>
+            </div>
+             <br>
+             <div id="privacy-policy-error" style="text-align: center;">
+                 <img id="checkbox-privacy-switch-error" class="checkbox" style="cursor: pointer;" src="../images/ic_checkbox_checked.png">
+                 <span id="checkbox-privacy-text-error"></span>
+                 <span id="learn-more-text-error" class="item-url" style="vertical-align: unset;"></span>
+             </div>
+        </div>
+    </div>
+    
+    <div id="option-pannel" style="display:none">
+        <img id="logo" />
+    
+        <div id="settings-pannel" style="display: flex;">
+            <div id="settings-title" style="display: inline-block;" class="item-left"></div>
+            <div style="display: inline-block;" class="item-right">
+                <div id="notification">
+                    <div id="enable-toast-text" style="display: inline-block; width:85%"></div>   
+                    <img id="enable-toast-switch" class="switch-button" src="../images/switch_on.png">
+                    <hr>
+                </div>
+                <div id="sovetnik" style="display: none;">
+                    <div id="enable-sovetnik-text" style="display: inline-block; width:85%"></div>   
+                    <img id="enable-sovetnik-switch" class="switch-button" src="../images/switch_on.png">
+                    <hr>
+                </div>
+                <div id="toolbutton">
+                    <div id="enable-toolbar-text" style="display: inline-block; width:85%"></div>
+                    <img id="enable-toolbar-switch" class="switch-button" src="../images/switch_on.png">
+                    <hr>
+                </div>
+                
+                <div id="privacy-policy">
+                    <img id="checkbox-privacy-switch" class="checkbox" style="float: left; cursor: pointer;" src="../images/ic_checkbox_checked.png">
+                    <div style="display: inline-block; width:85%">
+                        <div id="checkbox-privacy-text"></div>
+                        <div id="learn-more-text" class="item-url" style="display: inline-block"></div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div id="about-pannel" style="display: flex;">
+            <span id="about-text" class="item-left"></span>
+            <div style="display: inline-block;" class="item-right">
+                <div id="website">
+                    <div style="official-display: inline-block;">
+                        <img class="item-img" src="../images/web_link.png">
+                        <div id="official-website-text" style="display: inline-block;" class="item-url"></div>
+                    </div>
+                </div>
+                
+                <div id="fb-website">
+                    <div style="display: inline-block;">
+                        <img class="item-img" src="../images/fb_link.png">
+                        <div id="fb-website-text" style="display: inline-block;" class="item-url"></div>
+                    </div>
+                </div>
+                
+                <div id="copyright"></div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>

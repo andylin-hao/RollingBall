@@ -1,0 +1,223 @@
+html {
+    font-size: 12pt;
+}
+
+body {
+    background-color: white;
+    margin: 0px;
+    font-size: calc(0.8 * 87.5%);
+    overflow:hidden;
+    font-family: "Segoe UI", Tahoma, sans-serif;
+}
+
+#checking-container,
+#safe-container,
+#risk-container,
+#pay-container,
+#shopping-container,
+#upgrade-container,
+#sitea-access-container {
+    width: calc(0.8 * 336px);
+}
+
+#unknown-container {
+    width: calc(0.8 * 392px);
+}
+
+.border {
+    padding-bottom: calc(0.8 * 40px);
+    padding-left: calc(0.8 * 35px);
+    padding-right: calc(0.8 * 35px);
+}
+
+.rlborder {
+    padding-left: calc(0.8 * 35px);
+    padding-right: calc(0.8 * 35px);
+}
+
+hr.setting-divider {
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    -webkit-margin-start: calc(0.8 * 15px);
+    -webkit-margin-end: calc(0.8 * 15px);
+    border-top: 1px solid #e8e8e8;
+}
+
+
+hr.enhance-divider {
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    border-top: 1px solid #e8e8e8;
+}
+
+
+.title {
+    font-size: 2em;
+    color: #565656;
+    text-align: center;
+}
+
+.description {
+    font-size: 1.167em;
+    color: #656565;
+}
+
+.status_large_icon {
+    width: calc(0.8 * 112px);
+    height: calc(0.8 * 112px);
+}
+
+.setting_icon {
+    width: calc(0.8 * 20px);
+    height: calc(0.8 * 20px);
+}
+
+.setting_bar_container {
+    height: calc(0.8 * 50px);
+}
+.setting_bar_container input {
+    float: left;
+    position: relative;
+    top: calc(0.8 * 15px);
+    left: calc(0.8 * 15px);
+}
+.setting_bar_container  div{
+    line-height: calc(0.8 * 50px);
+    text-align:center;
+    font-size: 1.5em;
+    color: gray;
+}
+
+.large_icon_container {
+    padding-top: calc(0.8 * 40px);
+    padding-bottom: calc(0.8 * 25px);
+}
+
+#shopping-container #netpay-pannel {
+    margin-top: calc(0.8 * 40px);
+}
+#safe-container #netpay-pannel {
+    margin-top: calc(0.8 * 20px);
+}
+
+#status-desc {
+    margin-top: calc(0.8 * 20px);
+}
+
+#netpay-mode {
+    font-size: 1.333em;
+    line-height: calc(0.8 * 18px);
+}
+#netpay-switch {
+    width: calc(0.8 * 38px);
+    height: calc(0.8 * 19px);
+}
+
+#misc-pannel {
+    font-size: 1.167em;
+    color: gray;
+}
+#website-name-container,
+#website-description-container {
+    margin-bottom: calc(0.8 * 10px); 
+}
+
+#website-official,
+#website-safe {
+    margin-bottom: calc(0.8 * 2px); 
+}
+
+#enhance-pannel {
+    background: #f8f8f8;
+    padding-top: calc(0.8 * 15px);
+    padding-bottom: calc(0.8 * 40px);
+    padding-left: calc(0.8 * 35px);
+    padding-right: calc(0.8 * 35px);
+}
+#enhance-text {
+    color: #6a6a6a;
+    font-size: 1.333em;
+}
+
+#report-pannel {
+    margin-top: calc(0.8 * 25px);
+    text-align: center;
+}
+#report-false-positive {
+    color: #598cff;
+    cursor: pointer;
+    line-height: calc(0.8 * 26px);
+}
+#close-tab {
+    margin-top: calc(0.8 * 20px);
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0d0d0;
+    border-radius: 4px;
+    color: #6d6d6d;
+    cursor: pointer;
+    padding-left: calc(0.8 * 30px);
+    padding-right: calc(0.8 * 30px);
+    line-height: calc(0.8 * 26px);
+}
+
+#upgrade_message {
+    margin-bottom: calc(0.8 * 30px);
+}
+#upgrade_360safe {
+    margin-bottom: calc(0.8 * 10px);
+}
+
+.margin20px {
+    margin-top: calc(0.8 * 20px);
+}
+
+.list-icon {
+    width: calc(0.8 * 18px);
+    height: calc(0.8 * 18px);
+    margin-right: calc(0.8 * 12px);
+}
+
+.list-text {
+    line-height: calc(0.8 * 18px);
+}
+
+.item-space {
+    margin-right: calc(0.8 * 8px);
+}
+
+.feeadback {
+    display: flex; justify-content: center;
+    cursor: pointer; 
+    color:#00FFFF;
+}
+
+.resolve {
+    cursor: pointer;
+    color: #598cff;
+}
+
+.upgrade-button {
+    display: inline-block;
+    background: #4babfd;
+    border-radius: 4px;
+    color: #ffffff;
+    cursor: pointer;
+    padding-left: calc(0.8 * 40px);
+    padding-right: calc(0.8 * 40px);
+    line-height: calc(0.8 * 32px);
+    font-size: 1.167em;
+}
+
+.plate{
+  background-color: #00d21a;
+  color: white;
+  padding: 1 5px;
+  border-radius: 10px;
+}
+
+.single-line {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}

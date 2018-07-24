@@ -1,0 +1,58 @@
+<html>
+<head>
+<script src="../utils/debug.js"></script>
+<script src="../utils/type.js"></script>
+<script src="../utils/product.js"></script>
+<script src="./popup.js"></script>
+<link rel="stylesheet" type="text/css" href="popup.css">
+</head>
+<body>
+
+<div id="safe-container" class="body">
+    <div class="setting_bar_container">
+        <input type="image" class="setting_icon" src="../images/settings.png" />
+        <div id="caption"></div>
+    </div>
+    
+    <hr class="setting-divider">
+    
+    <div class="border">
+        <div class="large_icon_container" style="display: flex; justify-content: center;">
+            <img src="../images/safe_large.png" class="status_large_icon">
+        </div>
+        
+        <div class="status-container">
+            <div id="status-text" class="title" style="display: flex; justify-content: center;"></div>
+            <div id="status-desc" class="description" style="display: none; justify-content: center;"></div>
+        </div>
+    </div>
+    
+    <hr class="enhance-divider">
+    
+    <div id="enhance-pannel">
+        <div id="enhance-text"></div>
+        
+        <div id="netpay-pannel">
+            <div id="netpay-mode" style="display: inline-block;" ></div>
+            <img id="netpay-switch" style="float: right; cursor: pointer;">
+        </div>
+        
+        <div id="misc-pannel">
+            <div id="security-check-container" style="display: none;" class="margin20px list-text">
+                <img id="scan-result-img" style="vertical-align: middle;" class="list-icon">
+       
+                <div style="display: inline-block;">
+                    <span id="security-check"></span>
+                    <span class="item-space">:</span>
+                    <span id="security-state" class="item-space"></span>
+                    <span id="risk-processed" class="resolve"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+</div>
+
+</body>
+</html>

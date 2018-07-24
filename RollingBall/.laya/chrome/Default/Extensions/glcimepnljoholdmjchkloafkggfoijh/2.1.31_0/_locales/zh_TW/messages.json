@@ -1,0 +1,170 @@
+{
+   "360_safe": {
+      "message": "360安全衛士"
+   },
+   "360_total_security": {
+      "message": "360安全衛士"
+   },
+   "about": {
+      "message": "關於"
+   },
+   "agreement_content_message": {
+      "message": "內建在360網頁安全防護的購物省錢助手能幫您在線上購物時自動找出更好的折扣特惠。現在啟用，讓您省下更多！"
+   },
+   "checking_tips": {
+      "message": "檢查中"
+   },
+   "checking_website": {
+      "message": "網站安全檢查中"
+   },
+   "close": {
+      "message": "關閉"
+   },
+   "copy_right_desc": {
+      "message": "版權所有：@2005-YEAR 360安全中心"
+   },
+   "deal_price_accept": {
+      "message": "啟用"
+   },
+   "deal_price_note": {
+      "message": "*購物省錢助手可稍後在擴充功能的設定中關閉"
+   },
+   "deal_price_reject": {
+      "message": "不要再詢問我"
+   },
+   "default_title": {
+      "message": "360網頁安全防護"
+   },
+   "description": {
+      "message": "360網頁安全防護"
+   },
+   "enable_similar_items_searching": {
+      "message": "找到更多特惠時，請通知我"
+   },
+   "enable_toast": {
+      "message": "當進入網購或支付網站時自動提示"
+   },
+   "enable_toolbar_icon": {
+      "message": "啟用工具列按鈕"
+   },
+   "enhanced": {
+      "message": "加強"
+   },
+   "learn_more": {
+      "message": "了解更多"
+   },
+   "name": {
+      "message": "360網頁安全防護"
+   },
+   "no_risk": {
+      "message": "無風險"
+   },
+   "official": {
+      "message": "官方"
+   },
+   "option_page_title": {
+      "message": "設置"
+   },
+   "privacy_policy_desc": {
+      "message": "使用者體驗改善計畫"
+   },
+   "recommended_message": {
+      "message": "Recommended"
+   },
+   "report_false_positive": {
+      "message": "反饋誤報"
+   },
+   "resolved": {
+      "message": "已處理"
+   },
+   "risk_desc": {
+      "message": "該網站被視為惡意網站，我們強烈建議您不要瀏覽。"
+   },
+   "risk_detected": {
+      "message": "發現風險"
+   },
+   "risk_tips": {
+      "message": "風險"
+   },
+   "risk_website": {
+      "message": "風險網站"
+   },
+   "safe": {
+      "message": "安全"
+   },
+   "safe_tips": {
+      "message": "安全"
+   },
+   "safe_website": {
+      "message": "安全網站"
+   },
+   "security_check": {
+      "message": "系統安全"
+   },
+   "shopping_desc": {
+      "message": "保護網購和交易安全。"
+   },
+   "shopping_protection": {
+      "message": "購物保護"
+   },
+   "shopping_protection_check": {
+      "message": "購物保護: 檢查中"
+   },
+   "shopping_protection_exit_desc": {
+      "message": "我們強烈建議開啟網購保護模式，來繼續使得網購和交易安全。"
+   },
+   "shopping_protection_no_risk": {
+      "message": "購物保護: 沒有風險"
+   },
+   "shopping_protection_off": {
+      "message": "購物保護關閉，正在訪問 "
+   },
+   "shopping_protection_off_desc_ts": {
+      "message": "網購防護功能已經關閉，請到 主程序 -> 防護 -> 網絡購物防護 開啟。"
+   },
+   "shopping_protection_on": {
+      "message": "購物保護開啟，正在訪問 "
+   },
+   "shopping_protection_on_without_pattern": {
+      "message": "購物保護開啟"
+   },
+   "shopping_protection_risk_found": {
+      "message": "購物保護: 發現風險"
+   },
+   "shopping_tips": {
+      "message": "購物"
+   },
+   "shopping_website": {
+      "message": "購物保護"
+   },
+   "shopping_website_off": {
+      "message": "購物保護關閉"
+   },
+   "status": {
+      "message": "狀態"
+   },
+   "unknown_tips": {
+      "message": "360網頁安全防護"
+   },
+   "unknown_website": {
+      "message": "360網頁安全防護"
+   },
+   "upgrade": {
+      "message": "升级"
+   },
+   "upgrade_browser_message": {
+      "message": "已經成功安裝360上網防護擴展，新功能需要升級瀏覽器到最新才能生效。"
+   },
+   "upgrade_env_message": {
+      "message": "已經成功安裝360上網防護擴展，新功能需要升級360安全衛士才能生效。"
+   },
+   "upgrade_ext_message": {
+      "message": "360上網防護擴展必須升級到最新，目前的擴展只支持最基本功能。"
+   },
+   "web_protection_off_desc_ts": {
+      "message": "網頁防護功能已經關閉，請到 主程序 -> 防護 -> 惡意網頁攔截 開啟，並重啟瀏覽器。"
+   },
+   "website": {
+      "message": "網站"
+   }
+}

@@ -1,0 +1,170 @@
+{
+   "360_safe": {
+      "message": "360安全卫士"
+   },
+   "360_total_security": {
+      "message": "360 Total Security"
+   },
+   "about": {
+      "message": "Info"
+   },
+   "agreement_content_message": {
+      "message": "Der in 360 Internet Protection enthaltene Shopping Saver wird für Sie automatisch nach besseren Rabatten suchen, wenn Sie online einkaufen. Aktivieren Sie jetzt, um weniger zu bezahlen!"
+   },
+   "checking_tips": {
+      "message": "Prüfen"
+   },
+   "checking_website": {
+      "message": "Überprüfung der Sicherheit…"
+   },
+   "close": {
+      "message": "Schließen"
+   },
+   "copy_right_desc": {
+      "message": "Copyright: @2005-YEAR 360 Security Center"
+   },
+   "deal_price_accept": {
+      "message": "Aktivieren"
+   },
+   "deal_price_note": {
+      "message": "*Shopping Saver kann später in den Einstellungen abgeschaltet werden."
+   },
+   "deal_price_reject": {
+      "message": "Nicht wieder fragen"
+   },
+   "default_title": {
+      "message": "360 Internet Protection"
+   },
+   "description": {
+      "message": "360 Internet Protection"
+   },
+   "enable_similar_items_searching": {
+      "message": "Mich benachrichten, wenn mehr Angebot gefunden werden"
+   },
+   "enable_toast": {
+      "message": "Benachrichtigen Sie mich, sobald der Schutz aktiviert ist"
+   },
+   "enable_toolbar_icon": {
+      "message": "Schaltfläche der Symbolleiste"
+   },
+   "enhanced": {
+      "message": "Verbessert"
+   },
+   "learn_more": {
+      "message": "Weitere Informationen"
+   },
+   "name": {
+      "message": "360 Internet Protection"
+   },
+   "no_risk": {
+      "message": "Kein Risiko"
+   },
+   "official": {
+      "message": "Offiziell"
+   },
+   "option_page_title": {
+      "message": "Einstellungen"
+   },
+   "privacy_policy_desc": {
+      "message": "Programm zur Verbesserung der Kundenerfahrung"
+   },
+   "recommended_message": {
+      "message": "Recommended"
+   },
+   "report_false_positive": {
+      "message": "Falsche Treffer melden"
+   },
+   "resolved": {
+      "message": "Behoben"
+   },
+   "risk_desc": {
+      "message": "Diese Seite wurde als riskante Seite gemeldet, es wird davon abgeraten, diese Seite zu besuchen."
+   },
+   "risk_detected": {
+      "message": "Risiko erkannt"
+   },
+   "risk_tips": {
+      "message": "Risiko"
+   },
+   "risk_website": {
+      "message": "Riskante Website"
+   },
+   "safe": {
+      "message": "Sicher"
+   },
+   "safe_tips": {
+      "message": "Sicher"
+   },
+   "safe_website": {
+      "message": "Sichere Seite"
+   },
+   "security_check": {
+      "message": "Systemsicherheit"
+   },
+   "shopping_desc": {
+      "message": "Seien Sie beim Shoppen und Bezahlen geschützt."
+   },
+   "shopping_protection": {
+      "message": "Shopping-Schutz"
+   },
+   "shopping_protection_check": {
+      "message": "Shopping-Schutz: Überprüfung der Systemsicherheit…"
+   },
+   "shopping_protection_exit_desc": {
+      "message": "Es wird dringend empfohlen, den Shopping-Schutz-Modus zu aktivieren, um Ihren Schutz beim Shoppen und Bezahlen zu gewährleisten."
+   },
+   "shopping_protection_no_risk": {
+      "message": "Shopping-Schutz: Kein Risiko"
+   },
+   "shopping_protection_off": {
+      "message": "Shopping-Schutz ist deaktiviert, Sie besuchen "
+   },
+   "shopping_protection_off_desc_ts": {
+      "message": "Das Shopping-Schutz-Modul ist deaktiviert. Gehen Sie auf Hauptprogramm -> Schutz -> Online-Shopping-Schutz, um es zu aktivieren."
+   },
+   "shopping_protection_on": {
+      "message": "Shopping-Schutz ist aktiviert, Sie besuchen "
+   },
+   "shopping_protection_on_without_pattern": {
+      "message": "Shopping-Schutz ist aktiviert"
+   },
+   "shopping_protection_risk_found": {
+      "message": "Shopping-Schutz: Risiko erkannt"
+   },
+   "shopping_tips": {
+      "message": "Shopping"
+   },
+   "shopping_website": {
+      "message": "Shopping-Schutz"
+   },
+   "shopping_website_off": {
+      "message": "Shopping-Schutz ist deaktiviert"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "unknown_tips": {
+      "message": "360 Internet Protection"
+   },
+   "unknown_website": {
+      "message": "360 Internet Protection"
+   },
+   "upgrade": {
+      "message": "Upgrade"
+   },
+   "upgrade_browser_message": {
+      "message": "360-Internet-Schutz wurde erfolgreich installiert. Neue Funktionen werden nach dem Upgrade des aktuellen Browsers auf die neueste Version aktiviert."
+   },
+   "upgrade_env_message": {
+      "message": "360-Internet-Schutz wurde erfolgreich installiert. Neue Funktionen werden nach dem Upgrade auf die aktuellste Version von 360 Total Security aktiviert."
+   },
+   "upgrade_ext_message": {
+      "message": "360 Internet Protection must be upgraded to  latest version. The current extension only support base function."
+   },
+   "web_protection_off_desc_ts": {
+      "message": "Das Web-Schutz-Modul ist deaktiviert. Gehen Sie auf Hauptprogramm -> Schutz -> Blockierung gefährlicher Websites, um es zu aktivieren und starten Sie den Browser erneut."
+   },
+   "website": {
+      "message": "Website"
+   }
+}

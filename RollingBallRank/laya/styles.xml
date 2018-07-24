@@ -1,0 +1,6 @@
+<res>
+   <item name="img/restartBtn.png" type="Button" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="img" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="img/btn_Prev.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="img/btn_Next.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+</res>

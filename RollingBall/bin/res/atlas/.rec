@@ -1,0 +1,14 @@
+D .
+D Ui
+R 8139A074 background.png
+P D81077D6 btn_Next.png
+P 7CE0CF85 btn_Pause.png
+P 052C4C51 btn_Prev.png
+P 399B1834 btn_Quit.png
+P FC2DE073 btn_Restart.png
+P D191F984 btn_Resume.png
+R A4B438A3 pausebg.png
+P DAEDD870 playBtn.png
+R C9041A75 rankbg.png
+P C1997949 restartBtn.png
+P 792E1400 title.png

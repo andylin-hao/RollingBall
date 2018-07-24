@@ -1,0 +1,170 @@
+{
+   "360_safe": {
+      "message": "360安全卫士"
+   },
+   "360_total_security": {
+      "message": "360 Total Security"
+   },
+   "about": {
+      "message": "情報"
+   },
+   "agreement_content_message": {
+      "message": "360 Internet Protectionにビルトインされている「ショッピングセーバー」は、オンラインショッピングのよりお得な情報を自動的に検索します。今すぐ有効にして節約しましょう！"
+   },
+   "checking_tips": {
+      "message": "確認中"
+   },
+   "checking_website": {
+      "message": "セキュリティを確認しています…"
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "copy_right_desc": {
+      "message": "Copyright: @2005-YEAR 360 Security Center"
+   },
+   "deal_price_accept": {
+      "message": "起動"
+   },
+   "deal_price_note": {
+      "message": "*「ショッピングセーバー」は、設定でいつでも無効にすることができます"
+   },
+   "deal_price_reject": {
+      "message": "今後表示しない"
+   },
+   "default_title": {
+      "message": "360インターネットセキュリティ"
+   },
+   "description": {
+      "message": "360インターネットセキュリティ"
+   },
+   "enable_similar_items_searching": {
+      "message": "お得な情報があるとき通知を受け取る"
+   },
+   "enable_toast": {
+      "message": "保護が有効なときに通知する"
+   },
+   "enable_toolbar_icon": {
+      "message": "ツールバーボタン"
+   },
+   "enhanced": {
+      "message": "強化"
+   },
+   "learn_more": {
+      "message": "詳細情報"
+   },
+   "name": {
+      "message": "360インターネットセキュリティ"
+   },
+   "no_risk": {
+      "message": "危険性なし"
+   },
+   "official": {
+      "message": "公式"
+   },
+   "option_page_title": {
+      "message": "設定"
+   },
+   "privacy_policy_desc": {
+      "message": "ユーザーエクスペリエンス向上プログラム"
+   },
+   "recommended_message": {
+      "message": "Recommended"
+   },
+   "report_false_positive": {
+      "message": "誤検知をレポート"
+   },
+   "resolved": {
+      "message": "処理済み"
+   },
+   "risk_desc": {
+      "message": "このページは危険なサイトと報告されました。このページは閲覧しないことを強くお勧めします。"
+   },
+   "risk_detected": {
+      "message": "危険性が検出されました"
+   },
+   "risk_tips": {
+      "message": "リスク"
+   },
+   "risk_website": {
+      "message": "危険な Web サイト"
+   },
+   "safe": {
+      "message": "安全"
+   },
+   "safe_tips": {
+      "message": "安全"
+   },
+   "safe_website": {
+      "message": "安全なサイト"
+   },
+   "security_check": {
+      "message": "システムのセキュリティ"
+   },
+   "shopping_desc": {
+      "message": "ショッピングとトランザクションを保護します。"
+   },
+   "shopping_protection": {
+      "message": "ショッピングの保護"
+   },
+   "shopping_protection_check": {
+      "message": "ショッピングの保護：システムのセキュリティを確認しています…"
+   },
+   "shopping_protection_exit_desc": {
+      "message": "ショッピングの保護モードを有効にして、ショッピングとトランザクションを保護することを強くお勧めします。"
+   },
+   "shopping_protection_no_risk": {
+      "message": "ショッピングの保護：危険性なし"
+   },
+   "shopping_protection_off": {
+      "message": "ショッピングの保護はオフです（閲覧中）"
+   },
+   "shopping_protection_off_desc_ts": {
+      "message": "ショッピングの保護モジュールが無効です。［メインプログラム］ -> ［保護］ -> ［オンラインショッピング保護］ を選択して有効にしてください。"
+   },
+   "shopping_protection_on": {
+      "message": "ショッピングの保護はオンです（閲覧中）"
+   },
+   "shopping_protection_on_without_pattern": {
+      "message": "ショッピングの保護はオンです"
+   },
+   "shopping_protection_risk_found": {
+      "message": "ショッピングの保護：危険性が検出されました"
+   },
+   "shopping_tips": {
+      "message": "ショッピング"
+   },
+   "shopping_website": {
+      "message": "ショッピングの保護"
+   },
+   "shopping_website_off": {
+      "message": "ショッピングの保護はオフです"
+   },
+   "status": {
+      "message": "ステータス"
+   },
+   "unknown_tips": {
+      "message": "360インターネットセキュリティ"
+   },
+   "unknown_website": {
+      "message": "360インターネットセキュリティ"
+   },
+   "upgrade": {
+      "message": "アップグレード"
+   },
+   "upgrade_browser_message": {
+      "message": "360 Internet Protection が正常にインストールされました。新機能は、現在のブラウザを最新バージョンにアップグレードした後に有効になります。"
+   },
+   "upgrade_env_message": {
+      "message": "360 Internet Protection が正常にインストールされました。新機能は、最新バージョンの 360 Total Security をアップグレードした後に有効になります。"
+   },
+   "upgrade_ext_message": {
+      "message": "360 Internet Protection must be upgraded to  latest version. The current extension only support base function."
+   },
+   "web_protection_off_desc_ts": {
+      "message": "Web の保護モジュールが無効です。［メインプログラム］ -> ［保護］ -> ［悪意のある Web サイトのブロック］ を選択して有効にし、ブラウザを再起動してください。"
+   },
+   "website": {
+      "message": "Web サイト"
+   }
+}

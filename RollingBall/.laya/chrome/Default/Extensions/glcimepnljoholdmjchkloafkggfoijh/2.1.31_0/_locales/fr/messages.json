@@ -1,0 +1,170 @@
+{
+   "360_safe": {
+      "message": "360安全卫士"
+   },
+   "360_total_security": {
+      "message": "360 Total Security"
+   },
+   "about": {
+      "message": "À propos"
+   },
+   "agreement_content_message": {
+      "message": "L'option Bon Plan intégrée à 360 Internet Protection vous permet de rechercher automatiquement les meilleures offres lorsque vous faites vos achats en ligne. Activez-la maintenant pour payer moins cher !"
+   },
+   "checking_tips": {
+      "message": "Vérification en cours"
+   },
+   "checking_website": {
+      "message": "Vérification de la sécurité..."
+   },
+   "close": {
+      "message": "Fermer"
+   },
+   "copy_right_desc": {
+      "message": "Copyright: @2005-YEAR 360 Security Center"
+   },
+   "deal_price_accept": {
+      "message": "Activer"
+   },
+   "deal_price_note": {
+      "message": "*L'option Bon Plan peut se désactiver plus tard dans les paramètres"
+   },
+   "deal_price_reject": {
+      "message": "Ne plus me demander"
+   },
+   "default_title": {
+      "message": "Protection Internet 360"
+   },
+   "description": {
+      "message": "360 Internet Protection"
+   },
+   "enable_similar_items_searching": {
+      "message": "Me notifier lorsque plus de bonnes affaires sont trouvées"
+   },
+   "enable_toast": {
+      "message": "Me notifier lorsque la protection est activée"
+   },
+   "enable_toolbar_icon": {
+      "message": "Bouton de barre des tâches"
+   },
+   "enhanced": {
+      "message": "Amélioré"
+   },
+   "learn_more": {
+      "message": "En savoir plus"
+   },
+   "name": {
+      "message": "360 Internet Protection"
+   },
+   "no_risk": {
+      "message": "Aucun risque"
+   },
+   "official": {
+      "message": "Officiel"
+   },
+   "option_page_title": {
+      "message": "Paramètres"
+   },
+   "privacy_policy_desc": {
+      "message": "Programme d'amélioration de l'expérience utilisateur"
+   },
+   "recommended_message": {
+      "message": "Recommandé"
+   },
+   "report_false_positive": {
+      "message": "Signaler un faux positif"
+   },
+   "resolved": {
+      "message": "Résolu"
+   },
+   "risk_desc": {
+      "message": "La page a été signalée en tant que site à risque. Nous décourageons fortement la visite de cette page."
+   },
+   "risk_detected": {
+      "message": "Risque détecté"
+   },
+   "risk_tips": {
+      "message": "Risque"
+   },
+   "risk_website": {
+      "message": "Site à risque"
+   },
+   "safe": {
+      "message": "Sûr"
+   },
+   "safe_tips": {
+      "message": "Safe"
+   },
+   "safe_website": {
+      "message": "Site sûr"
+   },
+   "security_check": {
+      "message": "Sécurité du système"
+   },
+   "shopping_desc": {
+      "message": "Faites vos achats et effectuez des transactions en toute sécurité."
+   },
+   "shopping_protection": {
+      "message": "Protection des achats"
+   },
+   "shopping_protection_check": {
+      "message": "Protection lors des achats : vérification de la sécurité système..."
+   },
+   "shopping_protection_exit_desc": {
+      "message": "Nous vous recommandons fortement l'activation du mode protection des achats pour garantir la sécurité de vos achats et transactions."
+   },
+   "shopping_protection_no_risk": {
+      "message": "Protection des achats : aucun risque"
+   },
+   "shopping_protection_off": {
+      "message": "Protection des achats est DÉSACTIVÉ, vous visitez "
+   },
+   "shopping_protection_off_desc_ts": {
+      "message": "Le module Protection des achats est désactivé, veuillez vous rendre sur Programme principal -> Protection -> Protection des achats en ligne pour l'activer."
+   },
+   "shopping_protection_on": {
+      "message": "Protection des achats est ACTIVÉ, vous visitez "
+   },
+   "shopping_protection_on_without_pattern": {
+      "message": "Protection des achats est ACTIVÉ"
+   },
+   "shopping_protection_risk_found": {
+      "message": "Protection des achats : risque détecté"
+   },
+   "shopping_tips": {
+      "message": "Achats"
+   },
+   "shopping_website": {
+      "message": "Shopping Protection"
+   },
+   "shopping_website_off": {
+      "message": "Protection des achats est DÉSACTIVÉ"
+   },
+   "status": {
+      "message": "Statut"
+   },
+   "unknown_tips": {
+      "message": "360 Internet Protection"
+   },
+   "unknown_website": {
+      "message": "360 Internet Protection"
+   },
+   "upgrade": {
+      "message": "Mettre à niveau"
+   },
+   "upgrade_browser_message": {
+      "message": "360 Internet Protection a bien été installé. De nouvelles fonctionnalités prendront effet après la mise à niveau du navigateur actuel vers la version la plus récente."
+   },
+   "upgrade_env_message": {
+      "message": "360 Internet Protection a bien été installé. De nouvelles fonctionnalités prendront effet après la mise à niveau vers la version la plus récente de 360 Total Security."
+   },
+   "upgrade_ext_message": {
+      "message": "360 Internet Protection doit être mis à niveau vers la version la plus récente. L'extension actuelle ne prend en charge que la fonction d'assistance de base."
+   },
+   "web_protection_off_desc_ts": {
+      "message": "Le module Protection Internet est désactivé, veuillez vous rendre sur Programme principal -> Protection -> Blocage des sites malveillants pour l'activer et redémarrer le navigateur."
+   },
+   "website": {
+      "message": "Site Internet"
+   }
+}
