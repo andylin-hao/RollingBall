@@ -1,14 +1,9 @@
 # 综合实验文档
 
 
-
-## 目录
-
-[TOC]
-
 ## 小程序体验版二维码
 
-<img src="/img/qrcode.jpg" width="200px"/> 
+<img src="https://github.com/linlinhaohao888/RollingBall/blob/master/README/img/qrcode.jpg" width="200px"/> 
 
 ## 游戏策划与功能
 
@@ -20,25 +15,25 @@
 
 包括一个在左右移动的标题和一个开始按钮
 
-<img src="/img/start.jpg" width="250px"/>
+<img src="https://github.com/linlinhaohao888/RollingBall/blob/master/README/img/start.jpg" width="250px"/>
 
 ### 游戏界面
 
 主要元素包括玩家操控的小球、跳板，跳板中长方体障碍物、跳板上黄色箭头状的加速道具、跳板末端为会增加跳跃高度的道具。游戏左上角显示当前分数，右上角有一个暂停按钮，点击即暂停游戏并进入暂停界面。
 
-<img src="/img/game.jpg" width=250/>
+<img src="https://github.com/linlinhaohao888/RollingBall/blob/master/README/img/game.jpg" width=250/>
 
 ### 暂停界面
 
 暂停界面的主体为三个按钮，从上至下分别为继续游戏、重新开始和结束游戏。
 
-<img src="/img/pause.jpg" width="250px"/>
+<img src="https://github.com/linlinhaohao888/RollingBall/blob/master/README/img/pause.jpg" width="250px"/>
 
 ### 结束界面
 
 结束界面会显示本局得分、历史最高分、用户及好友的排行榜，每页显示三名用户，包括用户的昵称、头像、历史最高分，排行榜默认显示页为用户所在页，通过下方的左右按钮可显示前一页和后一页。红色的按钮点击后重新开始游戏。
 
-<img src="/img/end.jpg" width="250px"/>
+<img src="https://github.com/linlinhaohao888/RollingBall/blob/master/README/img/end.jpg" width="250px"/>
 
 
 
