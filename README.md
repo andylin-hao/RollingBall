@@ -1,8 +1,14 @@
 # 综合实验文档
 
+
+
+## 目录
+
+[TOC]
+
 ## 小程序体验版二维码
 
-<img src="https://github.com/Imalne/RollingBall/blob/master/README/img/qrcode.jpg" width="200px"/> 
+<img src="/img/qrcode.jpg" width="200px"/> 
 
 ## 游戏策划与功能
 
@@ -14,25 +20,25 @@
 
 包括一个在左右移动的标题和一个开始按钮
 
-<img src="https://github.com/Imalne/RollingBall/blob/master/README/img/start.jpg" width="250px"/>
+<img src="/img/start.jpg" width="250px"/>
 
 ### 游戏界面
 
 主要元素包括玩家操控的小球、跳板，跳板中长方体障碍物、跳板上黄色箭头状的加速道具、跳板末端为会增加跳跃高度的道具。游戏左上角显示当前分数，右上角有一个暂停按钮，点击即暂停游戏并进入暂停界面。
 
-<img src="https://github.com/Imalne/RollingBall/blob/master/README/img/game.jpg" width=250/>
+<img src="/img/game.jpg" width=250/>
 
 ### 暂停界面
 
 暂停界面的主体为三个按钮，从上至下分别为继续游戏、重新开始和结束游戏。
 
-<img src="https://github.com/Imalne/RollingBall/blob/master/README/img/pause.jpg" width="250px"/>
+<img src="/img/pause.jpg" width="250px"/>
 
 ### 结束界面
 
 结束界面会显示本局得分、历史最高分、用户及好友的排行榜，每页显示三名用户，包括用户的昵称、头像、历史最高分，排行榜默认显示页为用户所在页，通过下方的左右按钮可显示前一页和后一页。红色的按钮点击后重新开始游戏。
 
-<img src="https://github.com/Imalne/RollingBall/blob/master/README/img/end.jpg" width="250px"/>
+<img src="/img/end.jpg" width="250px"/>
 
 
 
@@ -88,7 +94,7 @@ Node.js Express
 - `SprBoard.ts / SprBoardScript.ts`：增加高度道具的构建、碰撞事件处理
 - `RankList.ts`：主子域共享画布添加，绘制排行榜
 - `StartMenu.ts / PausePage.ts / PauseUI.ts / EndPage.ts`：启动、暂停、结束UI界面扩展类，处理点击事件
-- `CameraScript.ts`：
+- `CameraScript.ts`：控制摄像头的移动
 
 #### 游戏子域（RollingBallRank文件夹）：
 
@@ -102,17 +108,18 @@ Node.js Express
 ### 重点与难点：
 
 * Laya相关API的使用，由于官方文档的不完整和相关教程有限，部分API的使用需要自行探索
+* 游戏贴图与素材制作、搜集
 * Laya的屏幕缩放API无法很好适配分辨率大于16:9的手机屏幕，解决方案为在代码中进行判断，并对屏幕布局进行调整，对背景等图案进行缩放
 * 不同手机的贡献画布的分辨率有差异，在使用HUAWEI Mate 9等16:9的1080p手机进行测试时发现共享画布的面积小于实际子域画布面积，而Galaxy S8+等分辨率为18:9的手机共享画布比例也与子域画布比例不同，在代码中都需要进行判断和调整
 * 用户`openID`的获取由于微信的安全政策限制，无法通过`wx.request`API完成，需要自行构建服务器并通过用户上传的相关`code`来获取并返回
 
 ## 游戏测试
 
-游戏通过在iPhone 8 Plus、Galaxy S8+、HUAWEI Mate 9等机型上测试，未出现明显的bug。游戏过程顺畅，帧率维持在60FPS左右，界面无黑边、拉伸等情况。排行榜也能很好地显示用户自身及好友排名。
+游戏通过在iPhone 8 Plus、Galaxy S8+、HUAWEI Mate 9等机型上测试，未出现明显的bug，游戏能够以预定的逻辑运行，正常处理用户的输入以及游戏事件的发生，背景音乐能够在合适的时间出现、暂停与开始。游戏过程顺畅，帧率维持在60FPS左右，界面无黑边、拉伸等情况。排行榜也能很好地显示用户自身及好友排名。
 
 ## 游戏亮点
 
 * 跳板的四处移动以及障碍物的随机增长增加了游戏难度、游戏的等级提升增加了游戏的趣味性，3D场景的设置使得玩家更有真实体验，仿佛在云端穿梭。
 * 排行榜的实现，使得用户能够看到好友的分数及排名。
 * 暂停界面按钮弹出实现了一个渐次淡入的动画。
-* 游戏素材为手工绘制结合部分网络素材的自主设计。
+* 部分游戏素材为手工绘制结合部分网络素材的自主设计。
